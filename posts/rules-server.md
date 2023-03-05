@@ -4,7 +4,7 @@ metaTitle: ""
 metaDesc: ""
 socialImage: ""
 date: ""
-order: 1
+order: 2
 tags:
     - rule
 ---
