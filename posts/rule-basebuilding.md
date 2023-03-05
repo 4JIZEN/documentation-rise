@@ -2,7 +2,7 @@
 title: "กฎการสร้างบ้าน"
 metaTitle: ""
 metaDesc: ""
-socialImage: ""
+socialImage: ""posts
 date: ""
 order: 4
 tags:
